@@ -1,0 +1,40 @@
+_repo: The-Pagan-Madonna_27339
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Koerner, W. H. D. (William Henry Dethlef)
+    alias: Koerner, William Henry Dethlef
+    birthdate: 1878
+    deathdate: 1938
+    gutenberg_agent_id: '32639'
+    url: http://www.gutenberg.org/2009/agents/32639
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacGrath, Harold
+    birthdate: 1871
+    deathdate: 1932
+    gutenberg_agent_id: '750'
+    url: http://www.gutenberg.org/2009/agents/750
+    wikipedia: http://en.wikipedia.org/wiki/Harold_MacGrath
+description: ''
+gutenberg_issued: '2008-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27339'
+  lccn: '21008310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Ocean travel -- Fiction'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Chance -- Fiction'
+title: The Pagan Madonna
+url: http://www.gutenberg.org/ebooks/27339
